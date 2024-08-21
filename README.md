@@ -13,9 +13,6 @@ This repository demonstrates how to set up a simple Node.js and MongoDB applicat
   - [Build and Push Your Own Image](#build-and-push-your-own-image)
   - [Checking Output](#checking-output)
   - [Accessing Kubernetes Dashboard](#accessing-kubernetes-dashboard)
-- [Configuration Files](#configuration-files)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
